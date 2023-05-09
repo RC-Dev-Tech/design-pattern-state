@@ -2,7 +2,6 @@
 > ##### 理論請自行找，網路上有很多相關的文章，這邊只關注於範例實作的部分.
 
 ---
-<br>
 
 <!--ts-->
 ## 目錄
@@ -15,27 +14,23 @@
 <!--te-->
 
 ---
-<br>
 
 ## 目的
 State是一個行為型設計模式，它允許物件在其內部狀態發生變化時改變它的行為，從而使物件看起來像是改變了它的類別。
 
 ---
-<br>
 
 ## 使用時機
 當一個物件的行為需要隨著其內部狀態的變化而變化時，可以使用State模式。<br>
 它可以幫助我們在不同的狀態下改變物件的行為，而不需要使用過多的條件語句或switch語句。
 
 ---
-<br>
 
 ## URL結構圖
 ![](https://drive.google.com/uc?id=1RlLoKz6yd-OJY0VtAADPmIEjCSI5VvvX)
 > 圖片來源：[Refactoring.Guru - State](https://refactoring.guru/design-patterns/state)
 
 ---
-<br>
 
 ## 實作成員
 * Context
@@ -46,22 +41,18 @@ State是一個行為型設計模式，它允許物件在其內部狀態發生變
   * 實現State介面，並根據Context當前的狀態來實現相應的行為。
 
 ---
-<br>
 
 ## 實作範例:
 - [待補...]() 
 
 ---
-<br>
 
 ## 參考資料
 * [Wiki - State Pattern](https://en.wikipedia.org/wiki/State_pattern) <br>
 * [Refactoring.Guru - State](https://refactoring.guru/design-patterns/state) <br>
 
 ---
-<br>
 
----
 <!--ts-->
 #### [目錄 ↩](#目錄)
 <!--te-->

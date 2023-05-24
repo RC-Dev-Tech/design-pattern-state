@@ -43,7 +43,7 @@ State是一個行為型設計模式，它允許物件在其內部狀態發生變
 ---
 
 ## 實作範例:
-- [待補...]() 
+- [Example](https://github.com/RC-Dev-Tech/design-pattern-state/blob/main/C%2B%2B/main.cpp) - State Pattern (C++) 
 
 ---
 
